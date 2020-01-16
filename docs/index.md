@@ -8,6 +8,6 @@
 
 [R Programming](./Rprogramming.html)
 
-Chapter 2 Simple Linear Regression [Part I](./chapter2_part1.html), [Part II](./chapter2_part3.html), [Part III](./chapter2_part3.html)
+Chapter 2 Simple Linear Regression [Part I](./chapter2_part1.html), [Part II](./chapter2_part2.html), [Part III](./chapter2_part3.html)
 
 * Data Set: [data_RocketProp.csv](./data_RocketProp.csv)
