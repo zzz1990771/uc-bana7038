@@ -15,3 +15,13 @@ Chapter 2 Simple Linear Regression [Part I](./chapter2_part1.html), [Part II](./
 [Chapter 2 Excercise](./chapter2_ex.html)
 
 * Data Set: [data_chicago.csv](data_chicago.csv) [data_delta.csv](data_delta.csv) [data_vote.csv](data_vote.csv)
+
+[Chapter 3 Multiple Linear Regression](./chapter3.html)
+
+* Data Set: [data_AirlinesCost.csv](data_AirlinesCost.csv)
+
+[Chapter 4 Model Adequacy Checking](./chapter4.html)
+
+[Chapter 5 Model Validation](./chapter5.html)
+
+* Data Set: [data_delivery_additional.csv](data_delivery_additional.csv)
