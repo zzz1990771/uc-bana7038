@@ -484,10 +484,23 @@ R^2=\frac{SSR}{SST}=1-\frac{SSRes}{SST}
 R^2_{adj}=1-\frac{SSRes/(n-k-1)}{SST/(n-1)}=1-(1-R^2)\frac{n-1}{n-k-1}
 \]</span></p>
 <p>where <span class="math inline">\(k\)</span> is the total number of covariates in the model (not including the intercept).</p>
-<pre class="r"><code>summary(model1)$r.square</code></pre>
+<div id="example-1" class="section level4">
+<h4>Example:</h4>
+<pre class="r"><code>#generate a random variable, add it to the model
+set.seed(2)
+noise &lt;- rnorm(nrow(delivery),0,1)
+
+model2 &lt;- lm(DeliveryTime ~ NumberofCases + Distance + noise, data=delivery)
+
+summary(model1)$r.square</code></pre>
 <pre><code>## [1] 0.9595937</code></pre>
+<pre class="r"><code>summary(model2)$r.square</code></pre>
+<pre><code>## [1] 0.9596191</code></pre>
 <pre class="r"><code>summary(model1)$adj.r.squared</code></pre>
 <pre><code>## [1] 0.9559205</code></pre>
+<pre class="r"><code>summary(model2)$adj.r.squared</code></pre>
+<pre><code>## [1] 0.9538504</code></pre>
+</div>
 </div>
 <div id="hypothesis-testing-in-multiple-linear-regression" class="section level3">
 <h3>Hypothesis Testing in Multiple Linear Regression</h3>
