@@ -50,6 +50,10 @@ Chapter 2 Simple Linear Regression [Part I](./chapter2_part1.html), [Part II](./
 
 * Data Set: [data_BodyFat.csv](data_BodyFat.csv) [data_Webster.csv](data_Webster.csv)
 
-[Chapter 12 Polynomial Regression](./chapter11.html)
+[Chapter 12 Polynomial Regression](./chapter12.html)
 
 * Data Set: [data_HaldCement.csv](data_HaldCement.csv) [data_Asphalt.csv](data_Asphalt.csv)
+
+[Chapter 13 Variable selection](./chapter13.html)
+
+[Chapter 14 Other Machine learning methods](./chapter14.html)
