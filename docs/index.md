@@ -37,3 +37,19 @@ Chapter 2 Simple Linear Regression [Part I](./chapter2_part1.html), [Part II](./
 [Chapter 8 Multicollinearity](./chapter8.html)
 
 * Data Set: [data_ElectricUtility.csv](data_BodyFat.csv) [data_Windmill.csv](data_Webster.csv)
+
+[Chapter 9 Diagnostics for Leverage and Influence](./chapter9.html)
+
+* Data Set: [data_Hardwood.csv](data_Hardwood.csv) [data_VoltageDrop.csv](data_VoltageDrop.csv)
+
+[Chapter 10 Indicator Variables](./chapter10.html)
+
+* Data Set: [data_Life.csv](data_Life.csv) [data_City.csv](data_City.csv)
+
+[Chapter 11 Logistic Regression](./chapter11.html)
+
+* Data Set: [data_BodyFat.csv](data_BodyFat.csv) [data_Webster.csv](data_Webster.csv)
+
+[Chapter 12 Polynomial Regression](./chapter11.html)
+
+* Data Set: [data_HaldCement.csv](data_HaldCement.csv) [data_Asphalt.csv](data_Asphalt.csv)
