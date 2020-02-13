@@ -621,6 +621,21 @@ plot(p.seq, mean_error)</code></pre>
 <pre class="r"><code>optimal.pcut = p.seq[which(mean_error==min(mean_error))]
 min(mean_error)</code></pre>
 <pre><code>## [1] 0.1666667</code></pre>
+<div id="a-in-class-exercise" class="section level3">
+<h3>A in-class exercise</h3>
+<p>Use the data_delivery data, the first data we use in the first lecture. Cut the varibale “Distance” into two level with a threshold of 300. That is , any value higher than 300 is 1 and any value lower or equal to 300 is 0. Then we can perform logistic regression on this data. The predictor is still “DeliveryTime” and “NumberofCases”. The final goal is 1) to find out wichi variable is significant and 2) what is the best p-cut and lowest mean error we can get?</p>
+<pre class="r"><code>data &lt;- read.csv(&quot;data_delivery.csv&quot;)
+data$Distance &lt;- as.numeric(data$Distance&gt;300)
+head(data)</code></pre>
+<pre><code>##   Index DeliveryTime NumberofCases Distance
+## 1     1        16.68             7        1
+## 2     2        11.50             3        0
+## 3     3        12.03             3        1
+## 4     4        14.88             4        0
+## 5     5        13.75             6        0
+## 6     6        18.11             7        1</code></pre>
+<pre class="r"><code>#Your turn!</code></pre>
+</div>
 </div>
 
 
