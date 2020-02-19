@@ -58,4 +58,6 @@ Chapter 2 Simple Linear Regression [Part I](./chapter2_part1.html), [Part II](./
 
 * Data Set: [data_HaldCement.csv](data_HaldCement.csv) [data_Asphalt.csv](data_Asphalt.csv)
 
-[Chapter 14 Other Machine learning methods](./chapter14.html)
+[Chapter 14 unsupervised learning methods](https://zzz1990771.github.io/Data-Mining-R/7.%20Unsupervised%20learning%20(cluster%20analysis,%20association%20rules)/7_UnsupervisedLearning.html)
+
+[Chapter 15 tree models](https://zzz1990771.github.io/Data-Mining-R/5.%20Tree%20models/5_Tree.html)
