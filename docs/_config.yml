@@ -1,1 +1,19 @@
-theme: jekyll-theme-slate
+# Dependencies
+#gems:                [jekyll-paginate]
+#paginate: 5
+#paginate_path: "page:num"
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               BANA 7038 Data Analytics Methods
+tagline:             'Data Analytics Methods'
+description:         'BANA 7038 Data Analytics Methods'
+url:                 https://zzz1990771.github.io/uc-bana7038
+baseurl:             ''
+
+
+theme: jekyll-theme-cayman
