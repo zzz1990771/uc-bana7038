@@ -12,8 +12,8 @@ permalink:           pretty
 title:               BANA 7038 Data Analytics Methods
 tagline:             'Data Analytics Methods'
 description:         'Tianhai Zu'
-url:                 https://zzz1990771.github.io/uc-bana7038
-baseurl:             ''
+url:                 https://zzz1990771.github.io/uc-bana7038/
+baseurl:             https://zzz1990771.github.io/uc-bana7038/
 
 
 theme: jekyll-theme-cayman
