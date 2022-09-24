@@ -2,7 +2,7 @@
 
 [Syllabus](./uc-bana7038/BANA7038_002_Zu_syllabus_20SS.pdf)
 
-[Chapter 1 Introduction](./uc-bana7038/chapter1.html)
+[Chapter 1 Introduction](./chapter1.html)
 
 * Data Set: [data_delivery.csv](./uc-bana7038/data_delivery.csv)
 
