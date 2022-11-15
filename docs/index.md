@@ -2,7 +2,7 @@
 
 [Syllabus](./BANA7038_002_Zu_syllabus_20SS.pdf)
 
-* Sample Snow Data:[R script](./snow.R) [Excel](./snow.xlsx)
+* Sample Snow Data:[R script](./snow.R), [Excel](./snow.xlsx)
 
 [Chapter 1 Introduction](./chapter1.html)
 
